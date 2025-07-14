@@ -23,7 +23,7 @@
     "php": ">=7.0",
     "smarty/smarty": "^v2.6.30",
     "o3-shop/shop-facts": "^v1.0.0",
-    "symfony/filesystem": "^3.3 || ^4.4.17",
+    "symfony/filesystem": "^5.4 || ^6.0",
     "webmozart/path-util": "^2.3",
     "o3-shop/shop-unified-namespace-generator": "^v1.0.00"
   },
