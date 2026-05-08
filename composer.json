@@ -38,5 +38,8 @@
   },
   "replace": {
     "oxid-esales/oxideshop-ide-helper": "4.1.0"
+  },
+  "archive": {
+    "exclude": [".next-bump"]
   }
 }
